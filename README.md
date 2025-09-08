@@ -9,3 +9,8 @@ Verilog, Vivado
 
 ## **📜 Results :** 
 Verified full instruction execution cycle (Fetch → Decode → Execute) with Testbench simulations, confirming correct CPU behavior.
+
+<br>
+
+#### *Referenced Document*
+[Docs](https://github.com/J-HanRyang/Mini_CPU/tree/main/Docs)
